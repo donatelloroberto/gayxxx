@@ -2,7 +2,7 @@
   {
     "packageName": "com.donatelloroberto.repo.gxtapes",
     "name": "G_Xtapes",
-    "version": 3,
+    "version": 4,
     "baseUrl": "https://gay.xtapes.in",
     "description": "G_Xtapes SkyStream plugin converted from the CloudStream GXtapes provider. Includes homepage categories, search, metadata loading, recommendations, and extractor support for GXtapes, 88z.io, 44x.io, VID Xtapes, DoodStream and generic direct video links.",
     "authors": [
@@ -41,12 +41,12 @@
       }
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=gay.xtapes.in&sz=%size%",
-    "url": "https://raw.githubusercontent.com/donatelloroberto/gayxxx/dist/com.donatelloroberto.repo.gxtapes.sky"
+    "url": "https://raw.githubusercontent.com/donatelloroberto/gayvn-cs/skystream/dist/com.donatelloroberto.repo.gxtapes.sky"
   },
   {
     "packageName": "com.donatelloroberto.repo.nurgay",
     "name": "Nurgay",
-    "version": 3,
+    "version": 4,
     "baseUrl": "https://nurgay.to",
     "description": "Nurgay SkyStream plugin converted from CloudStream source. NSFW provider with mirror extraction support.",
     "authors": [
@@ -101,6 +101,6 @@
         "url": "https://tapepops.com"
       }
     ],
-    "url": "https://raw.githubusercontent.com/donatelloroberto/gayxxx/dist/com.donatelloroberto.repo.nurgay.sky"
+    "url": "https://raw.githubusercontent.com/donatelloroberto/gayvn-cs/skystream/dist/com.donatelloroberto.repo.nurgay.sky"
   }
 ]

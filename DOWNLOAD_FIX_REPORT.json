@@ -1,0 +1,11 @@
+{
+  "fixed": [
+    "repo.json pluginLists raw URL",
+    "dist/plugins.json plugin .sky URLs",
+    "plugin versions bumped to 4",
+    "rebuilt .sky files from current plugin.js/plugin.json",
+    "package.json deploy script"
+  ],
+  "repo_url": "https://raw.githubusercontent.com/donatelloroberto/gayvn-cs/skystream/repo.json",
+  "plugins_url": "https://raw.githubusercontent.com/donatelloroberto/gayvn-cs/skystream/dist/plugins.json"
+}
